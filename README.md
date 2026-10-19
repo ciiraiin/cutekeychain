@@ -1,4 +1,4 @@
 # cutekeychain
 OLED keychain and hairpin project
 
-Install libraries yang digunakan sebelum mengupload. Jika ada problem bisa hubungi pemilik akun.
+Install libraries yang digunakan sebelum mengunggah program ke board esp32c3. Jika ada masalah bisa hubungi pemilik akun.
